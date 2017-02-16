@@ -1,0 +1,2 @@
+I:\CoCo\GitHub\ICanSeeYouToo\ICanSeeYou远程控制软件(源代码)－L3'Studio\INCUserver\obj\Release\INCUserver.exe
+I:\CoCo\GitHub\ICanSeeYouToo\ICanSeeYou远程控制软件(源代码)－L3'Studio\INCUserver\obj\Release\INCUserver.pdb

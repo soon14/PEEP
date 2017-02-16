@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ShowMessage.Properties.Resources.resources
+obj\Debug\ShowMessage.ShowMessageForm.resources
+obj\Debug\ShowMessage.csproj.GenerateResource.Cache
+bin\Debug\ShowMessage.dll
+bin\Debug\ShowMessage.pdb
+obj\Debug\ShowMessage.dll
+obj\Debug\ShowMessage.pdb
+bin\Release\ShowMessage.dll
+bin\Release\ShowMessage.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\ShowMessage.Properties.Resources.resources
+obj\Release\ShowMessage.ShowMessageForm.resources
+obj\Release\ShowMessage.csproj.GenerateResource.Cache
+obj\Release\ShowMessage.dll
+obj\Release\ShowMessage.pdb

@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\ICanSeeYou.dll
+bin\Debug\ICanSeeYou.pdb
+obj\Debug\ICanSeeYou.dll
+obj\Debug\ICanSeeYou.pdb
+bin\Release\ICanSeeYou.dll
+bin\Release\ICanSeeYou.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\ICanSeeYou.dll
+obj\Release\ICanSeeYou.pdb

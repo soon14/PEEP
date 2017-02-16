@@ -1,0 +1,14 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\Server.dll
+bin\Debug\Server.pdb
+obj\Debug\Server.dll
+obj\Debug\Server.pdb
+bin\Debug\ICanSeeYou.dll
+bin\Debug\ICanSeeYou.pdb
+bin\Release\Server.dll
+bin\Release\Server.pdb
+bin\Release\ICanSeeYou.dll
+bin\Release\ICanSeeYou.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Server.dll
+obj\Release\Server.pdb

@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="14.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{025628C8-0FBD-4B13-BEC4-38CB800CB670}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ICanSeeYou</RootNamespace>
+    <AssemblyName>ICanSeeYou</AssemblyName>
+    <StartupObject>
+    </StartupObject>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ItemGroup>
+    <Compile Include="API\Api.cs" />
+    <Compile Include="Bases\BaseCommunication.cs" />
+    <Compile Include="Codes\CodeHead.cs" />
+    <Compile Include="Codes\Explorer\BaseStruct.cs" />
+    <Compile Include="Codes\Explorer\DirectoryStruct.cs" />
+    <Compile Include="Codes\Explorer\DisksCode.cs" />
+    <Compile Include="Codes\Explorer\DiskStruct.cs" />
+    <Compile Include="Codes\Explorer\FileStruct.cs" />
+    <Compile Include="Codes\Code.cs" />
+    <Compile Include="Codes\Simple\DoubleCode.cs" />
+    <Compile Include="Codes\IO\FileCode.cs" />
+    <Compile Include="Codes\Net\HostCode.cs" />
+    <Compile Include="Codes\Mouse_KeyBoard\KeyBoardEvent.cs" />
+    <Compile Include="Codes\Mouse_KeyBoard\MouseEvent.cs" />
+    <Compile Include="Codes\Net\PortCode.cs" />
+    <Compile Include="Codes\IO\SendScreenCode.cs" />
+    <Compile Include="Codes\Simple\ThreeCode.cs" />
+    <Compile Include="Configure\OptionFile.cs" />
+    <Compile Include="Configure\OptionManager.cs" />
+    <Compile Include="Configure\PassWordFile.cs" />
+    <Compile Include="Constant.cs" />
+    <Compile Include="Codes\Explorer\ExplorerCode.cs" />
+    <Compile Include="IO.cs" />
+    <Compile Include="Hooks\KeyBoardHook.cs" />
+    <Compile Include="Hooks\MouseHook.cs" />
+    <Compile Include="Network.cs" />
+    <Compile Include="Configure\Option.cs" />
+    <Compile Include="Configure\PassWord.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Windows\ScreenCapture.cs" />
+    <Compile Include="Windows\WindowsManager.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+</Project>

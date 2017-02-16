@@ -1,0 +1,10 @@
+bin\Debug\ICSY_Client.exe
+bin\Debug\ICSY_Client.pdb
+bin\Debug\ICANSEEYOU.DLL.dll
+bin\Debug\ICANSEEYOU.DLL.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ICANSEEYOU.frm_client.resources
+obj\Debug\ICANSEEYOU.Properties.Resources.resources
+obj\Debug\ICANSEEYOU_client.csproj.GenerateResource.Cache
+obj\Debug\ICSY_Client.exe
+obj\Debug\ICSY_Client.pdb
