@@ -1,0 +1,10 @@
+I:\CoCo\GitHub\PEEP\PEEP\Demo.Painter\bin\Debug\Demo.Painter.exe.config
+I:\CoCo\GitHub\PEEP\PEEP\Demo.Painter\bin\Debug\Demo.Painter.exe
+I:\CoCo\GitHub\PEEP\PEEP\Demo.Painter\bin\Debug\Demo.Painter.pdb
+I:\CoCo\GitHub\PEEP\PEEP\Demo.Painter\obj\Debug\Demo.Painter.csprojResolveAssemblyReference.cache
+I:\CoCo\GitHub\PEEP\PEEP\Demo.Painter\obj\Debug\Demo.Painter.Form1.resources
+I:\CoCo\GitHub\PEEP\PEEP\Demo.Painter\obj\Debug\Demo.Painter.Properties.Resources.resources
+I:\CoCo\GitHub\PEEP\PEEP\Demo.Painter\obj\Debug\Demo.Painter.csproj.GenerateResource.Cache
+I:\CoCo\GitHub\PEEP\PEEP\Demo.Painter\obj\Debug\Demo.Painter.exe
+I:\CoCo\GitHub\PEEP\PEEP\Demo.Painter\obj\Debug\Demo.Painter.pdb
+I:\CoCo\GitHub\PEEP\PEEP\Demo.Painter\obj\Debug\Demo.Painter.Form2.resources
