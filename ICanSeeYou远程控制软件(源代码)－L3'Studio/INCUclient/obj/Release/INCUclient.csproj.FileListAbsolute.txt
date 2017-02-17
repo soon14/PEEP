@@ -1,2 +1,4 @@
 I:\CoCo\GitHub\ICanSeeYouToo\ICanSeeYou远程控制软件(源代码)－L3'Studio\INCUclient\obj\Release\INCUclient.exe
 I:\CoCo\GitHub\ICanSeeYouToo\ICanSeeYou远程控制软件(源代码)－L3'Studio\INCUclient\obj\Release\INCUclient.pdb
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\INCUclient\obj\Release\INCUclient.exe
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\INCUclient\obj\Release\INCUclient.pdb

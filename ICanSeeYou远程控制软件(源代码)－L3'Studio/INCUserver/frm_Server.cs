@@ -162,5 +162,10 @@ namespace INCUserver
             if (this.WindowState == FormWindowState.Minimized)
                 this.Visible = false;
         }
+
+        private void frm_Server_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

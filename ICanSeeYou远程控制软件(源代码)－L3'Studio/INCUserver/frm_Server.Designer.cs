@@ -31,9 +31,9 @@
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frm_Server));
             this.ltv_Log = new System.Windows.Forms.ListView();
-            this.col_Datetime = new System.Windows.Forms.ColumnHeader();
-            this.col_IP = new System.Windows.Forms.ColumnHeader();
-            this.col_Event = new System.Windows.Forms.ColumnHeader();
+            this.col_Datetime = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.col_IP = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.col_Event = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
             this.lbl_Message = new System.Windows.Forms.ToolStripStatusLabel();
             this.grb_Log = new System.Windows.Forms.GroupBox();
@@ -115,13 +115,13 @@
             this.关于AToolStripMenuItem1,
             this.退出EToolStripMenuItem1});
             this.cnm_notifyIcon.Name = "cnm_notifyIcon";
-            this.cnm_notifyIcon.Size = new System.Drawing.Size(153, 92);
+            this.cnm_notifyIcon.Size = new System.Drawing.Size(119, 70);
             // 
             // 打开OToolStripMenuItem3
             // 
             this.打开OToolStripMenuItem3.Image = global::INCUserver.Properties.Resources.Ice;
             this.打开OToolStripMenuItem3.Name = "打开OToolStripMenuItem3";
-            this.打开OToolStripMenuItem3.Size = new System.Drawing.Size(152, 22);
+            this.打开OToolStripMenuItem3.Size = new System.Drawing.Size(118, 22);
             this.打开OToolStripMenuItem3.Text = "打开(&O)";
             this.打开OToolStripMenuItem3.Click += new System.EventHandler(this.打开OToolStripMenuItem3_Click);
             // 
@@ -129,7 +129,7 @@
             // 
             this.关于AToolStripMenuItem1.Image = global::INCUserver.Properties.Resources.info;
             this.关于AToolStripMenuItem1.Name = "关于AToolStripMenuItem1";
-            this.关于AToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.关于AToolStripMenuItem1.Size = new System.Drawing.Size(118, 22);
             this.关于AToolStripMenuItem1.Text = "关于(&A)";
             this.关于AToolStripMenuItem1.Click += new System.EventHandler(this.关于AToolStripMenuItem1_Click);
             // 
@@ -137,7 +137,7 @@
             // 
             this.退出EToolStripMenuItem1.Image = global::INCUserver.Properties.Resources.Exit;
             this.退出EToolStripMenuItem1.Name = "退出EToolStripMenuItem1";
-            this.退出EToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.退出EToolStripMenuItem1.Size = new System.Drawing.Size(118, 22);
             this.退出EToolStripMenuItem1.Text = "退出(&E)";
             this.退出EToolStripMenuItem1.Click += new System.EventHandler(this.退出EToolStripMenuItem1_Click);
             // 
@@ -153,8 +153,9 @@
             this.Name = "frm_Server";
             this.ShowInTaskbar = false;
             this.Text = "ICanSeeYou服务端";
-            this.Resize += new System.EventHandler(this.frm_server_Resize);
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frm_server_FormClosing);
+            this.Load += new System.EventHandler(this.frm_Server_Load);
+            this.Resize += new System.EventHandler(this.frm_server_Resize);
             this.statusStrip1.ResumeLayout(false);
             this.statusStrip1.PerformLayout();
             this.cnm_notifyIcon.ResumeLayout(false);
