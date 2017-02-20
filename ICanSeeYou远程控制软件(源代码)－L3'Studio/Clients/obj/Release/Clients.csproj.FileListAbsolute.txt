@@ -1,0 +1,8 @@
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\Clients\bin\Release\Clients.dll
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\Clients\bin\Release\Clients.pdb
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\Clients\bin\Release\Client.dll
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\Clients\bin\Release\ICanSeeYou.dll
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\Clients\bin\Release\Client.pdb
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\Clients\bin\Release\ICanSeeYou.pdb
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\Clients\obj\Release\Clients.dll
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\Clients\obj\Release\Clients.pdb

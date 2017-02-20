@@ -63,9 +63,8 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\ICanSeeYou\Common\bin\Debug\ICanSeeYou.dll</HintPath>
     </Reference>
-    <Reference Include="IPAddressControlLib, Version=1.0.2620.17913, Culture=neutral, PublicKeyToken=0c70f2ee404bdebd, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\IPAddressControlTest\bin\Debug\IPAddressControlLib.dll</HintPath>
+    <Reference Include="IPAddressControlLib">
+      <HintPath>..\..\..\..\Project\Fork\Fork.Net\Dlls\Control\IPAddressControlLib.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />

@@ -1,0 +1,11 @@
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\Servers\bin\Release\Servers.dll
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\Servers\bin\Release\Servers.pdb
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\Servers\bin\Release\ICanSeeYou.dll
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\Servers\bin\Release\Server.dll
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\Servers\bin\Release\ShowMessage.dll
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\Servers\bin\Release\ICanSeeYou.pdb
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\Servers\bin\Release\Server.pdb
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\Servers\bin\Release\ShowMessage.pdb
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\Servers\obj\Release\Servers.csprojResolveAssemblyReference.cache
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\Servers\obj\Release\Servers.dll
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\Servers\obj\Release\Servers.pdb

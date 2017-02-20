@@ -36,6 +36,7 @@
             this.button2 = new System.Windows.Forms.Button();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.LbStatus = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -112,11 +113,21 @@
             this.label1.TabIndex = 6;
             this.label1.Text = "label1";
             // 
+            // LbStatus
+            // 
+            this.LbStatus.AutoSize = true;
+            this.LbStatus.Location = new System.Drawing.Point(12, 289);
+            this.LbStatus.Name = "LbStatus";
+            this.LbStatus.Size = new System.Drawing.Size(41, 12);
+            this.LbStatus.TabIndex = 7;
+            this.LbStatus.Text = "label2";
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(415, 306);
+            this.Controls.Add(this.LbStatus);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox4);
             this.Controls.Add(this.button2);
@@ -144,5 +155,6 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.PictureBox pictureBox4;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label LbStatus;
     }
 }

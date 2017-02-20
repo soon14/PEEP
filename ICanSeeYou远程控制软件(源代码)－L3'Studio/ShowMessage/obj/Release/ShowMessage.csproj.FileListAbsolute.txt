@@ -1,0 +1,8 @@
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\ShowMessage\bin\Release\ShowMessage.dll
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\ShowMessage\bin\Release\ShowMessage.pdb
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\ShowMessage\obj\Release\ShowMessage.csprojResolveAssemblyReference.cache
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\ShowMessage\obj\Release\ShowMessage.Properties.Resources.resources
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\ShowMessage\obj\Release\ShowMessage.ShowMessageForm.resources
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\ShowMessage\obj\Release\ShowMessage.csproj.GenerateResource.Cache
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\ShowMessage\obj\Release\ShowMessage.dll
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\ShowMessage\obj\Release\ShowMessage.pdb

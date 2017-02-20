@@ -1,0 +1,4 @@
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\ICanSeeYou\Common\bin\Release\ICanSeeYou.dll
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\ICanSeeYou\Common\bin\Release\ICanSeeYou.pdb
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\ICanSeeYou\Common\obj\Release\ICanSeeYou.dll
+I:\CoCo\GitHub\PEEP\ICanSeeYou远程控制软件(源代码)－L3'Studio\ICanSeeYou\Common\obj\Release\ICanSeeYou.pdb

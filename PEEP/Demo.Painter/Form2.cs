@@ -1,13 +1,8 @@
-﻿using System;
+﻿using Emgu.CV.Structure;
+using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Drawing.Drawing2D;
 using System.Drawing.Imaging;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Demo.Painter
@@ -20,6 +15,11 @@ namespace Demo.Painter
         }
 
         private void button1_Click(object sender, EventArgs e)
+        {
+            DateTime dt = DateTime.Now;
+            LbStatus.Text = string.Format("Time: {0} ms", (DateTime.Now - dt).TotalMilliseconds);
+        }
+        private void FindDiff1()
         {
             int width = pictureBox1.Image.Width;
             int height = pictureBox1.Image.Height;
@@ -43,6 +43,34 @@ namespace Demo.Painter
             }
             pictureBox3.Image = img;
             img.Save(@"D:\Temp\desktop\" + Guid.NewGuid() + ".png", ImageFormat.Png);
+        }
+        private void FindDiff2()
+        {
+            Bitmap b1 = (Bitmap)pictureBox1.Image;
+            Bitmap b2 = (Bitmap)pictureBox2.Image;
+            int width = pictureBox1.Image.Width;
+            int height = pictureBox1.Image.Height;
+            Bitmap img = new Bitmap(width, height);
+            for (int i = 0; i < width; i++)
+            {
+                for (int j = 0; j < height; j++)
+                {
+                    if (b1.GetPixel(i, j) != b2.GetPixel(i, j))
+                    {
+                        img.SetPixel(i, j, b2.GetPixel(i, j));
+                    }
+                }
+            }
+            pictureBox3.Image = img;
+            img.Save(@"D:\Temp\desktop\" + Guid.NewGuid() + ".png", ImageFormat.Png);
+        }
+        private void FindDiff3()
+        {
+            Emgu.CV.Image<Bgra, byte> Image1 = new Emgu.CV.Image<Bgra, byte>((Bitmap)pictureBox1.Image);
+            Emgu.CV.Image<Bgra, byte> Image2 = new Emgu.CV.Image<Bgra, byte>((Bitmap)pictureBox2.Image);
+            Emgu.CV.Image<Bgra, byte> Image3 = Image1.Sub(Image2);
+            pictureBox3.Image = Image3.ToBitmap();
+            Image3.Save(@"D:\Temp\desktop\1.png");
         }
         public byte[] GetImagePixel(Bitmap img)
         {
