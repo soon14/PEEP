@@ -38,3 +38,6 @@ I:\CoCo\GitHub\PEEP\PEEP\Demo.Painter\bin\Debug\Y.Utils.dll
 I:\CoCo\GitHub\PEEP\PEEP\Demo.Painter\bin\Debug\Newtonsoft.Json.dll
 I:\CoCo\GitHub\PEEP\PEEP\Demo.Painter\bin\Debug\Y.Utils.pdb
 I:\CoCo\GitHub\PEEP\PEEP\Demo.Painter\bin\Debug\Newtonsoft.Json.xml
+D:\CoCo\GitHub\PEEP\PEEP\Demo.Painter\bin\Debug\Demo.Painter.exe.config
+D:\CoCo\GitHub\PEEP\PEEP\Demo.Painter\obj\Debug\Demo.Painter.exe
+D:\CoCo\GitHub\PEEP\PEEP\Demo.Painter\obj\Debug\Demo.Painter.pdb
