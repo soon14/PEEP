@@ -44,6 +44,10 @@ namespace Demo.Painter
                     tt.Begin();
                     Graphics pictureG = pictureBox1.CreateGraphics();
                     b = ScreenCapture.Capture();
+
+                    Graphics cursorG = Graphics.FromImage(b);
+                    ScreenCapture.DrawCursorImageToScreenImage(ref cursorG);
+
                     pictureG.DrawImage(b, 0, 0, pictureBox1.Width, pictureBox1.Height);
 
                     b?.Dispose();
@@ -52,6 +56,8 @@ namespace Demo.Painter
                         label1.Text = string.Format("{0} × {1}  time: {2} ms",
                             pictureBox1.Width, pictureBox1.Height, tt.ms);
                     }));
+
+                    cursorG.Dispose();
                     pictureG.Dispose();
                     Thread.Sleep(10);
                 }

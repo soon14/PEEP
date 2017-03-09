@@ -1,1 +1,10 @@
 I:\CoCo\GitHub\PEEP\PEEP\PEEP\bin\Debug\PEEP.exe.config
+D:\CoCo\GitHub\PEEP\PEEP\PEEP\bin\Debug\PEEP.exe.config
+D:\CoCo\GitHub\PEEP\PEEP\PEEP\bin\Debug\PEEP.exe
+D:\CoCo\GitHub\PEEP\PEEP\PEEP\bin\Debug\PEEP.pdb
+D:\CoCo\GitHub\PEEP\PEEP\PEEP\obj\Debug\PEEP.csprojResolveAssemblyReference.cache
+D:\CoCo\GitHub\PEEP\PEEP\PEEP\obj\Debug\PEEP.Form1.resources
+D:\CoCo\GitHub\PEEP\PEEP\PEEP\obj\Debug\PEEP.Properties.Resources.resources
+D:\CoCo\GitHub\PEEP\PEEP\PEEP\obj\Debug\PEEP.csproj.GenerateResource.Cache
+D:\CoCo\GitHub\PEEP\PEEP\PEEP\obj\Debug\PEEP.exe
+D:\CoCo\GitHub\PEEP\PEEP\PEEP\obj\Debug\PEEP.pdb
